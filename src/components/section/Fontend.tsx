@@ -14,7 +14,7 @@ export default function Fontend() {
     <h2 className="text-3xl font-bold text-center mb-8 animate-pulse">Fontend skills</h2>
     <p className="text-center mb-12 text-lg">
       
-    eing a professional in Next.js UI design, Tailwind CSS; learning continious
+    Being a professional in Next.js UI design, Tailwind CSS; learning continious
     </p>
 
 
