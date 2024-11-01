@@ -45,7 +45,7 @@ export default function Contact(){
 //                 <div>
 
                 
-//                 <Link href="www.linkedin.com/in/muhammad-azhar-8b01782b5" target="_blank">
+//                 <Link href="https://linkedin.com/in/muhammad-azhar-8b01782b5" target="_blank">
 //         <button className="bg-gray-900 text-white py-2 mt-4 px-4" >message linkedin</button>
 //       </Link>
 //                 </div>
